@@ -5,6 +5,8 @@
 - 网站链接：[cook.yunyoujun.cn](https://cook.yunyoujun.cn)
 - 备用：[cook.yyj.moe](https://cook.yyj.moe)
 
+[![CI](https://github.com/henryclw/cook/actions/workflows/ci.yml/badge.svg)](https://github.com/henryclw/cook/actions/workflows/ci.yml)  [![Docker Image CI](https://github.com/henryclw/cook/actions/workflows/docker-image.yml/badge.svg)](https://github.com/henryclw/cook/actions/workflows/docker-image.yml)
+
 ## 参考
 
 - [隔离食用手册大全](https://docs.qq.com/sheet/DZUpJS0tQZm1YYWlt)
