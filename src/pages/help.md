@@ -2,10 +2,6 @@
 title: 帮助
 ---
 
-<h3 text="center" font="serif black">
-使用帮助
-</h3>
-
 - [菜谱数据](https://docs.qq.com/sheet/DQk1vdkhFV0twQVNS)
   - [新菜谱反馈](https://docs.qq.com/sheet/DQk1vdkhFV0twQVNS?tab=uykkic)
   - [晒晒你的菜](https://docs.qq.com/sheet/DQk1vdkhFV0twQVNS?tab=dmeahc)
@@ -24,6 +20,8 @@ title: 帮助
 
 - 点击首页最上方的大锅图标，可清空所选食材和工具。
 - 本项目支持 PWA，使用浏览器打开时，可将其添加到主屏幕以获得近原生 APP 的体验。
+
+<InstallPwa />
 
 ## FAQ
 
